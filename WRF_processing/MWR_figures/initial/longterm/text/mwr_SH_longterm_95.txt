@@ -1,0 +1,5 @@
+95% Table values for SH February and March 2007
+WRF10 max SH: 840.305 and avg: 240.56  [W/m2]
+WRF25 max SH: 982.007 and avg: 253.723  [W/m2]
+WRF50 max SH: 708.331 and avg: 235.955  [W/m2]
+WRF100 max SH: 632.116 and avg: 221.103  [W/m2]

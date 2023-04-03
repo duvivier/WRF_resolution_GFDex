@@ -1,0 +1,5 @@
+Average Table values for Windsurf February and March 2007
+WRF10 max Windsurf: 17.3343 and avg: 11.6567  [m/s]
+WRF25 max Windsurf: 15.4943 and avg: 11.6676  [m/s]
+WRF50 max Windsurf: 15.0193 and avg: 11.4918  [m/s]
+WRF100 max Windsurf: 13.9879 and avg: 11.5249  [m/s]

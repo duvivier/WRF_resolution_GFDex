@@ -1,0 +1,2 @@
+ BIAS(wrf-qs)     MAE        RMSE         CORR
+   -1.0594    2.8704    3.6371    0.6896

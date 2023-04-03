@@ -1,0 +1,1 @@
+Date	Flight	lats	lons	10mwind(m/s)	Qsurf(g/kg)	Q2m(g/kg)	Tsurf(K)	T2m(K)	LHFlx(W/m2)	SHFlx(W/m2)

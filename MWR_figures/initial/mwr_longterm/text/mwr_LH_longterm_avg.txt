@@ -1,0 +1,5 @@
+Average Table values for LH February and March 2007
+WRF10 max LH: 222.852 and avg: 100.787  [W/m2]
+WRF25 max LH: 192.554 and avg: 101.226  [W/m2]
+WRF50 max LH: 178.829 and avg: 93.5972  [W/m2]
+WRF100 max LH: 175.004 and avg: 90.34  [W/m2]
